@@ -1,0 +1,8 @@
+{
+  "name": "GANZO STUDIO",
+  "description": "All-in-one creative design, textile printing, paper printing, and brand personalization studio in Tunisia. Design it. Customize it. Print it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
